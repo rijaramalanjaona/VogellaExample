@@ -10,7 +10,7 @@ public class Operations {
     }
 
     // Cette méthode ne fonctionne pas correctement
-    // Les tests vont le vérifier
+    // Les tests vont le vérifier...
     public static long multiplier(final long... pNombres) {
 	long lRetour = 0;
 	for (final long lNombre : pNombres) {
